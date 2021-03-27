@@ -1,0 +1,30 @@
+{
+    "sqltools.connections": [
+        {
+            "mysqlOptions": {
+                "authProtocol": "default"
+            },
+            "previewLimit": 50,
+            "server": "localhost",
+            "port": 3306,
+            "driver": "MySQL",
+            "name": "Mysql-laragon",
+            "username": "root",
+            "database": "dashboard",
+            "password": ""
+        },
+        {
+            "mysqlOptions": {
+                "authProtocol": "default"
+            },
+            "previewLimit": 50,
+            "server": "localhost",
+            "port": 3306,
+            "driver": "MySQL",
+            "username": "root",
+            "database": "cadastro-mvc",
+            "name": "cadastro-mvc",
+            "password": ""
+        }
+    ]
+}
